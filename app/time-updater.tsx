@@ -4,22 +4,6 @@ import { useState, useEffect } from "react"
 
 export default function TimeUpdater() {
   const [clientTime, setClientTime] = useState("Not updated yet")
-  const [lastSaved, setLastSaved] = useState<string | null>(null)
-  const [isPreview, setIsPreview] = useState(false)
-
-  // Check if we're in preview mode on component mount
-  useEffect(() => {
-    // Check if we're in preview mode (this is a simple heuristic)
-    const hostname = window.location.hostname
-    const isPreviewMode = hostname === "localhost" || hostname.includes("vercel.app") || hostname.includes("preview")
-
-    setIsPreview(isPreviewMode)
-
-    if (isPreviewMode) {
-      // Set initial last saved time
-      setLastSaved(new Date().toLocaleString("en-US", { timeZoneName: "short" }))
-    }
-  }, [])
 
   const updateTime = () => {
     setClientTime(
@@ -29,13 +13,7 @@ export default function TimeUpdater() {
     )
   }
 
-  // Format the commit SHA to show only the first 7 characters
-  const formatCommitSha = (sha: string) => {
-    if (sha === "development") return sha
-    return sha.substring(0, 7)
-  }
-
-  const commitSha = process.env.NEXT_PUBLIC_VERCEL_GIT_COMMIT_SHA || "development"
+  const commitSha = () => process.env.VERCEL_GIT_COMMIT_SHA || "development"
 
   return (
     <div>
@@ -60,11 +38,7 @@ export default function TimeUpdater() {
           </a>
         </div>
 
-        {/* Commit hash display - shortened to 7 characters */}
-        <p className="mt-2 text-xs text-gray-400">Commit: {formatCommitSha(commitSha)}</p>
-
-        {/* Last saved indicator for preview mode */}
-        {isPreview && lastSaved && <p className="mt-1 text-xs text-gray-400">Last saved: {lastSaved}</p>}
+        <p className="mt-2 text-xs text-gray-400">Commit: {commitSha()}</p>
       </div>
     </div>
   )
