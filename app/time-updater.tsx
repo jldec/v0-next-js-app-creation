@@ -6,7 +6,11 @@ export default function TimeUpdater() {
   const [clientTime, setClientTime] = useState("Not updated yet")
 
   const updateTime = () => {
-    setClientTime(new Date().toLocaleString())
+    setClientTime(
+      new Date().toLocaleString("en-US", {
+        timeZoneName: "short",
+      }),
+    )
   }
 
   return (

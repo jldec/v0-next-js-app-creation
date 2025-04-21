@@ -1,7 +1,9 @@
 import TimeUpdater from "./time-updater"
 
 export default async function Home() {
-  const serverTime = new Date().toLocaleString()
+  const serverTime = new Date().toLocaleString("en-US", {
+    timeZoneName: "short",
+  })
 
   return (
     <main className="min-h-screen flex flex-col items-center justify-center bg-gray-100">
