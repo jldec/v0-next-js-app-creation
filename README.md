@@ -22,3 +22,4 @@
 - https://github.com/jldec/v0-next-js-app-creation
 
 why: https://grok.com/share/bGVnYWN5_88294704-dbde-48da-b253-4ec60df55c3d
+more about RSCs: https://nextjs.org/docs/app/building-your-application/rendering/composition-patterns
