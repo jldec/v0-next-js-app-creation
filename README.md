@@ -1,30 +1,16 @@
-# Next.js app creation
+# v0-next-js-app-creation
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+1. started with grok prompt
+https://grok.com/share/bGVnYWN5_692dfbef-1bb9-4480-9f62-0a79a364891c
+`create an example of a minimal next.js react app with a button which updates a value with the current client-side date/time, and also showing server-rendered text based on the current date/time on the server.`
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/jldecs-projects/v0-next-js-app-creation)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/Y5yvtXiXK1G)
+2. refined to use RSC
+`can you change it to use RSC and also include the necessary App route and other nextjs boilerplate files?`
 
-## Overview
+3. and tailwind4
+`please fix the last set of files to use tailwind 4`
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
-
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/jldecs-projects/v0-next-js-app-creation](https://vercel.com/jldecs-projects/v0-next-js-app-creation)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/Y5yvtXiXK1G](https://v0.dev/chat/projects/Y5yvtXiXK1G)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+4. downloaded the resulting file from grok, and uploaded to a new v0 chat prompt:
+`create the files indicated by comments in Next(1).jsx to create a minimal nextjs app with RSC`
+`
+5. This just worked. Turned the chat into a new v0 project deployed to vercel and pushed to a new github repo.
