@@ -16,10 +16,9 @@
 
 ### Links
 
-- https://v0-next-js-app-creation-phi.vercel.app/
-- https://grok.com/share/bGVnYWN5_692dfbef-1bb9-4480-9f62-0a79a364891c
-- https://v0.dev/chat/next-js-app-creation-Ch5o7lUJBPN
-- https://github.com/jldec/v0-next-js-app-creation
-
-why: https://grok.com/share/bGVnYWN5_88294704-dbde-48da-b253-4ec60df55c3d
-more about RSCs: https://nextjs.org/docs/app/building-your-application/rendering/composition-patterns
+- [Why I did this](https://grok.com/share/bGVnYWN5_88294704-dbde-48da-b253-4ec60df55c3d)
+- [More about RSCs](https://nextjs.org/docs/app/building-your-application/rendering/composition-patterns)
+- [Initial Grok chat](https://grok.com/share/bGVnYWN5_692dfbef-1bb9-4480-9f62-0a79a364891c)
+- [v0 chat](https://v0.dev/chat/next-js-app-creation-Ch5o7lUJBPN)
+- [GitHub repo](https://github.com/jldec/v0-next-js-app-creation)
+- [Deployed app](https://v0-next-js-app-creation-phi.vercel.app/)
