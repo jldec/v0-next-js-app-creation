@@ -13,8 +13,6 @@ export default function TimeUpdater() {
     )
   }
 
-  const commitSha = () => process.env.VERCEL_GIT_COMMIT_SHA || "development"
-
   return (
     <div>
       <p className="mb-4">Client: {clientTime}</p>
@@ -37,8 +35,6 @@ export default function TimeUpdater() {
             github
           </a>
         </div>
-
-        <p className="mt-2 text-xs text-gray-400">Commit: {commitSha()}</p>
       </div>
     </div>
   )
