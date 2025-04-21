@@ -1,6 +1,9 @@
 import TimeUpdater from "./time-updater"
 
+export const dynamic = "force-dynamic" // This ensures the page is always dynamically rendered
+
 export default async function Home() {
+  // Use the current time directly for simplicity and reliability
   const serverTime = new Date().toLocaleString("en-US", {
     timeZoneName: "short",
   })
