@@ -1,6 +1,7 @@
 import type React from "react"
 import "./globals.css"
 import { Inter } from "next/font/google"
+import MenuBar from "./components/menu-bar"
 
 const inter = Inter({ subsets: ["latin"] })
 
@@ -17,7 +18,12 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+        <MenuBar />
+        <main className="min-h-screen flex flex-col bg-gray-100 pt-16">
+          <div className="flex-1 flex items-center justify-center">{children}</div>
+        </main>
+      </body>
     </html>
   )
 }
