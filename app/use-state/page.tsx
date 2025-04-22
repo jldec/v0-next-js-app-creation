@@ -1,22 +1,22 @@
 "use client"
 
-import { useState, useCallback } from "react"
+import { useState } from "react"
 import Link from "next/link"
 import Card from "../components/card"
 
 export default function UseStatePage() {
   const [count, setCount] = useState(0)
 
-  // Create an increment function that can be called multiple times
-  const increment = useCallback(() => {
+  // Simple function to increment the counter
+  const increment = () => {
     setCount((prevCount) => prevCount + 1)
-  }, [])
+  }
 
-  // Function to increment twice
-  const incrementTwice = useCallback(() => {
+  // Simple function to increment twice
+  const incrementTwice = () => {
     increment()
     increment()
-  }, [increment])
+  }
 
   return (
     <Card title="useState">
@@ -33,14 +33,24 @@ export default function UseStatePage() {
           </button>
         </div>
 
-        <a
-          href="https://react.dev/reference/react/useState"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="mt-2 text-xs text-gray-400 hover:underline"
-        >
-          docs
-        </a>
+        <div className="flex gap-3 mt-2 text-xs text-gray-400">
+          <a
+            href="https://react.dev/reference/react/useState"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:underline"
+          >
+            docs
+          </a>
+          <a
+            href="https://github.com/jldec/v0-next-js-app-creation/blob/main/app/use-state/page.tsx"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:underline"
+          >
+            code
+          </a>
+        </div>
       </div>
 
       <div className="mt-6">
