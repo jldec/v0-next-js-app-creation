@@ -1,6 +1,6 @@
 "use client"
 
-import { useState, useEffect } from "react"
+import { useState } from "react"
 
 export default function TimeUpdater() {
   const [clientTime, setClientTime] = useState("Not updated yet")
@@ -20,21 +20,19 @@ export default function TimeUpdater() {
         Update Client Time
       </button>
 
-      <div className="mt-4 text-sm text-gray-500 flex flex-col gap-1">
-        <div className="flex flex-wrap gap-3">
-          <a href="https://v0-next-js-app-creation-phi.vercel.app/" className="underline">
-            deployed app
-          </a>
-          <a href="https://grok.com/share/bGVnYWN5_692dfbef-1bb9-4480-9f62-0a79a364891c" className="underline">
-            grok chat
-          </a>
-          <a href="https://v0.dev/chat/next-js-app-creation-Ch5o7lUJBPN" className="underline">
-            v0 chat
-          </a>
-          <a href="https://github.com/jldec/v0-next-js-app-creation" className="underline">
-            github
-          </a>
-        </div>
+      <div className="mt-4 text-sm text-gray-500 flex flex-wrap gap-3">
+        <a href="https://v0-next-js-app-creation-phi.vercel.app/" className="underline">
+          deployed app
+        </a>
+        <a href="https://grok.com/share/bGVnYWN5_692dfbef-1bb9-4480-9f62-0a79a364891c" className="underline">
+          grok chat
+        </a>
+        <a href="https://v0.dev/chat/next-js-app-creation-Ch5o7lUJBPN" className="underline">
+          v0 chat
+        </a>
+        <a href="https://github.com/jldec/v0-next-js-app-creation" className="underline">
+          github
+        </a>
       </div>
     </div>
   )
