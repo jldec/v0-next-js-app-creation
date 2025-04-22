@@ -10,7 +10,7 @@ export default async function Home() {
 
   return (
     <div className="bg-white p-6 rounded-lg shadow-lg">
-      <h1 className="text-2xl font-bold mb-4">Next.js RSC Time Example</h1>
+      <h1 className="text-2xl font-bold mb-4">RSC Time Example</h1>
       <p className="mb-2">Server: {serverTime}</p>
       <TimeUpdater />
     </div>
