@@ -1,0 +1,3117 @@
+[
+  {
+    "id": 1,
+    "animal": "Lion",
+    "says": "Roar, I'm the king of the jungle!"
+  },
+  {
+    "id": 2,
+    "animal": "Parrot",
+    "says": "Squawk, who's a pretty bird?"
+  },
+  {
+    "id": 3,
+    "animal": "Elephant",
+    "says": "Trumpet, I never forget a face!"
+  },
+  {
+    "id": 4,
+    "animal": "Dolphin",
+    "says": "Click, let's swim with the tide!"
+  },
+  {
+    "id": 5,
+    "animal": "Penguin",
+    "says": "Waddle, ice is my dance floor!"
+  },
+  {
+    "id": 6,
+    "animal": "Cheetah",
+    "says": "Purr, catch me if you can!"
+  },
+  {
+    "id": 7,
+    "animal": "Owl",
+    "says": "Hoot, who’s awake at midnight?"
+  },
+  {
+    "id": 8,
+    "animal": "Kangaroo",
+    "says": "Boing, hop along with me!"
+  },
+  {
+    "id": 9,
+    "animal": "Snake",
+    "says": "Hiss, I’m just shedding my style!"
+  },
+  {
+    "id": 10,
+    "animal": "Gorilla",
+    "says": "Grunt, bananas are my jam!"
+  },
+  {
+    "id": 11,
+    "animal": "Frog",
+    "says": "Ribbit, hopping through the swamp!"
+  },
+  {
+    "id": 12,
+    "animal": "Shark",
+    "says": "Chomp, I’m circling for snacks!"
+  },
+  {
+    "id": 13,
+    "animal": "Eagle",
+    "says": "Screech, soaring above it all!"
+  },
+  {
+    "id": 14,
+    "animal": "Koala",
+    "says": "Munch, eucalyptus is life!"
+  },
+  {
+    "id": 15,
+    "animal": "Bear",
+    "says": "Growl, I’m ready to hibernate!"
+  },
+  {
+    "id": 16,
+    "animal": "Zebra",
+    "says": "Bray, stripes are always in!"
+  },
+  {
+    "id": 17,
+    "animal": "Giraffe",
+    "says": "Munch, leaves are up high!"
+  },
+  {
+    "id": 18,
+    "animal": "Wolf",
+    "says": "Howl, the moon’s my spotlight!"
+  },
+  {
+    "id": 19,
+    "animal": "Turtle",
+    "says": "Hiss, slow and steady wins!"
+  },
+  {
+    "id": 20,
+    "animal": "Lemur",
+    "says": "Chatter, let’s swing through trees!"
+  },
+  {
+    "id": 21,
+    "animal": "Crocodile",
+    "says": "Snap, I’m lurking in the mud!"
+  },
+  {
+    "id": 22,
+    "animal": "Hawk",
+    "says": "Screech, I’ve got my eyes on you!"
+  },
+  {
+    "id": 23,
+    "animal": "Panda",
+    "says": "Nom, bamboo’s my happy place!"
+  },
+  {
+    "id": 24,
+    "animal": "Fox",
+    "says": "Yip, sneaky is my game!"
+  },
+  {
+    "id": 25,
+    "animal": "Horse",
+    "says": "Neigh, gallop through the plains!"
+  },
+  {
+    "id": 26,
+    "animal": "Seal",
+    "says": "Bark, I’m diving for fish!"
+  },
+  {
+    "id": 27,
+    "animal": "Rhinoceros",
+    "says": "Snort, charge if you dare!"
+  },
+  {
+    "id": 28,
+    "animal": "Monkey",
+    "says": "Ooh, bananas or bust!"
+  },
+  {
+    "id": 29,
+    "animal": "Sloth",
+    "says": "Yawn, I’ll move tomorrow!"
+  },
+  {
+    "id": 30,
+    "animal": "Tiger",
+    "says": "Roar, stripes are my swagger!"
+  },
+  {
+    "id": 31,
+    "animal": "Llama",
+    "says": "Spit, don’t mess with me!"
+  },
+  {
+    "id": 32,
+    "animal": "Vulture",
+    "says": "Hiss, I clean up the mess!"
+  },
+  {
+    "id": 33,
+    "animal": "Coyote",
+    "says": "Yowl, I’m a desert trickster!"
+  },
+  {
+    "id": 34,
+    "animal": "Bison",
+    "says": "Grunt, stampeding through!"
+  },
+  {
+    "id": 35,
+    "animal": "Deer",
+    "says": "Snort, I leap with grace!"
+  },
+  {
+    "id": 36,
+    "animal": "Otter",
+    "says": "Squeak, I’m sliding for fun!"
+  },
+  {
+    "id": 37,
+    "animal": "Falcon",
+    "says": "Screech, fastest dive in town!"
+  },
+  {
+    "id": 38,
+    "animal": "Goat",
+    "says": "Baa, I’ll eat anything!"
+  },
+  {
+    "id": 39,
+    "animal": "Peacock",
+    "says": "Strut, check my feathers!"
+  },
+  {
+    "id": 40,
+    "animal": "Rabbit",
+    "says": "Thump, carrots are my vibe!"
+  },
+  {
+    "id": 41,
+    "animal": "Badger",
+    "says": "Grumble, I dig deep holes!"
+  },
+  {
+    "id": 42,
+    "animal": "Whale",
+    "says": "Sing, my song travels far!"
+  },
+  {
+    "id": 43,
+    "animal": "Antelope",
+    "says": "Bleat, I’m built for speed!"
+  },
+  {
+    "id": 44,
+    "animal": "Meerkat",
+    "says": "Chirp, I’m on lookout duty!"
+  },
+  {
+    "id": 45,
+    "animal": "Iguana",
+    "says": "Hiss, sunbathing is my thing!"
+  },
+  {
+    "id": 46,
+    "animal": "Walrus",
+    "says": "Blubber, I’m chilling on ice!"
+  },
+  {
+    "id": 47,
+    "animal": "Hyena",
+    "says": "Cackle, I laugh at danger!"
+  },
+  {
+    "id": 48,
+    "animal": "Camel",
+    "says": "Grunt, I store my own water!"
+  },
+  {
+    "id": 49,
+    "animal": "Skunk",
+    "says": "Hiss, don’t make me spray!"
+  },
+  {
+    "id": 50,
+    "animal": "Porcupine",
+    "says": "Grumble, quills up, back off!"
+  },
+  {
+    "id": 51,
+    "animal": "Raven",
+    "says": "Caw, I’m smarter than you think!"
+  },
+  {
+    "id": 52,
+    "animal": "Moose",
+    "says": "Bellow, antlers rule the forest!"
+  },
+  {
+    "id": 53,
+    "animal": "Orangutan",
+    "says": "Hoot, I swing with style!"
+  },
+  {
+    "id": 54,
+    "animal": "Platypus",
+    "says": "Gurgle, I’m one of a kind!"
+  },
+  {
+    "id": 55,
+    "animal": "Hedgehog",
+    "says": "Snuffle, I roll into a ball!"
+  },
+  {
+    "id": 56,
+    "animal": "Jaguar",
+    "says": "Growl, I’m stalking the night!"
+  },
+  {
+    "id": 57,
+    "animal": "Albatross",
+    "says": "Squawk, I glide for miles!"
+  },
+  {
+    "id": 58,
+    "animal": "Chameleon",
+    "says": "Hiss, I blend in anywhere!"
+  },
+  {
+    "id": 59,
+    "animal": "Warthog",
+    "says": "Grunt, mud baths are bliss!"
+  },
+  {
+    "id": 60,
+    "animal": "Ostrich",
+    "says": "Honk, I’m faster than I look!"
+  },
+  {
+    "id": 61,
+    "animal": "Beaver",
+    "says": "Chomp, I build the best dams!"
+  },
+  {
+    "id": 62,
+    "animal": "Lynx",
+    "says": "Purr, I’m a silent hunter!"
+  },
+  {
+    "id": 63,
+    "animal": "Flamingo",
+    "says": "Honk, pink is my power color!"
+  },
+  {
+    "id": 64,
+    "animal": "Mole",
+    "says": "Squeak, I dig underground!"
+  },
+  {
+    "id": 65,
+    "animal": "Armadillo",
+    "says": "Snuffle, I’m armored up!"
+  },
+  {
+    "id": 66,
+    "animal": "Gecko",
+    "says": "Chirp, I stick to walls!"
+  },
+  {
+    "id": 67,
+    "animal": "Puma",
+    "says": "Hiss, I leap from shadows!"
+  },
+  {
+    "id": 68,
+    "animal": "Bison",
+    "says": "Snort, I roam the plains!"
+  },
+  {
+    "id": 69,
+    "animal": "Condor",
+    "says": "Screech, I soar the Andes!"
+  },
+  {
+    "id": 70,
+    "animal": "Dingo",
+    "says": "Howl, I’m wild and free!"
+  },
+  {
+    "id": 71,
+    "animal": "Gibbon",
+    "says": "Whoop, I swing through dawn!"
+  },
+  {
+    "id": 72,
+    "animal": "Tapir",
+    "says": "Snort, I’m a jungle wanderer!"
+  },
+  {
+    "id": 73,
+    "animal": "Wolverine",
+    "says": "Growl, I’m tougher than nails!"
+  },
+  {
+    "id": 74,
+    "animal": "Toucan",
+    "says": "Squawk, my beak’s a rainbow!"
+  },
+  {
+    "id": 75,
+    "animal": "Aardvark",
+    "says": "Snuffle, I sniff out ants!"
+  },
+  {
+    "id": 76,
+    "animal": "Emu",
+    "says": "Grunt, I sprint across plains!"
+  },
+  {
+    "id": 77,
+    "animal": "Manatee",
+    "says": "Sigh, I’m a gentle giant!"
+  },
+  {
+    "id": 78,
+    "animal": "Serval",
+    "says": "Hiss, I leap for birds!"
+  },
+  {
+    "id": 79,
+    "animal": "Kinkajou",
+    "says": "Squeak, I’m a night prowler!"
+  },
+  {
+    "id": 80,
+    "animal": "Narwhal",
+    "says": "Click, my horn’s a mystery!"
+  },
+  {
+    "id": 81,
+    "animal": "Okapi",
+    "says": "Bleat, I’m a forest zebra!"
+  },
+  {
+    "id": 82,
+    "animal": "Quokka",
+    "says": "Chirp, I’m always smiling!"
+  },
+  {
+    "id": 83,
+    "animal": "Tarsier",
+    "says": "Squeak, my eyes see all!"
+  },
+  {
+    "id": 84,
+    "animal": "Uakari",
+    "says": "Grunt, my face is bold!"
+  },
+  {
+    "id": 85,
+    "animal": "Vicuna",
+    "says": "Bleat, I’m soft as clouds!"
+  },
+  {
+    "id": 86,
+    "animal": "Wallaby",
+    "says": "Thump, I hop with swagger!"
+  },
+  {
+    "id": 87,
+    "animal": "Xenopus",
+    "says": "Croak, I’m a water frog!"
+  },
+  {
+    "id": 88,
+    "animal": "Yak",
+    "says": "Grunt, I’m built for cold!"
+  },
+  {
+    "id": 89,
+    "animal": "Zorilla",
+    "says": "Hiss, I’m a stinky ninja!"
+  },
+  {
+    "id": 90,
+    "animal": "Lion",
+    "says": "Roar, I rule the savanna!"
+  },
+  {
+    "id": 91,
+    "animal": "Parrot",
+    "says": "Squawk, mimicry is my art!"
+  },
+  {
+    "id": 92,
+    "animal": "Elephant",
+    "says": "Trumpet, I’m wise and strong!"
+  },
+  {
+    "id": 93,
+    "animal": "Dolphin",
+    "says": "Click, I dance with waves!"
+  },
+  {
+    "id": 94,
+    "animal": "Penguin",
+    "says": "Waddle, I’m cool on ice!"
+  },
+  {
+    "id": 95,
+    "animal": "Cheetah",
+    "says": "Purr, I’m a speed machine!"
+  },
+  {
+    "id": 96,
+    "animal": "Owl",
+    "says": "Hoot, I hunt in silence!"
+  },
+  {
+    "id": 97,
+    "animal": "Kangaroo",
+    "says": "Boing, I carry my joey!"
+  },
+  {
+    "id": 98,
+    "animal": "Snake",
+    "says": "Hiss, I slither with grace!"
+  },
+  {
+    "id": 99,
+    "animal": "Gorilla",
+    "says": "Grunt, I’m the forest boss!"
+  },
+  {
+    "id": 100,
+    "animal": "Frog",
+    "says": "Ribbit, I love a good pond!"
+  },
+  {
+    "id": 101,
+    "animal": "Shark",
+    "says": "Chomp, I’m the ocean’s king!"
+  },
+  {
+    "id": 102,
+    "animal": "Eagle",
+    "says": "Screech, I claim the skies!"
+  },
+  {
+    "id": 103,
+    "animal": "Koala",
+    "says": "Munch, I sleep all day!"
+  },
+  {
+    "id": 104,
+    "animal": "Bear",
+    "says": "Growl, I fish with paws!"
+  },
+  {
+    "id": 105,
+    "animal": "Zebra",
+    "says": "Bray, I’m a walking barcode!"
+  },
+  {
+    "id": 106,
+    "animal": "Giraffe",
+    "says": "Munch, I reach the stars!"
+  },
+  {
+    "id": 107,
+    "animal": "Wolf",
+    "says": "Howl, I run with my pack!"
+  },
+  {
+    "id": 108,
+    "animal": "Turtle",
+    "says": "Hiss, my home’s on my back!"
+  },
+  {
+    "id": 109,
+    "animal": "Lemur",
+    "says": "Chatter, I’m a tree dancer!"
+  },
+  {
+    "id": 110,
+    "animal": "Crocodile",
+    "says": "Snap, I’m a river ambush!"
+  },
+  {
+    "id": 111,
+    "animal": "Hawk",
+    "says": "Screech, my vision’s sharp!"
+  },
+  {
+    "id": 112,
+    "animal": "Panda",
+    "says": "Nom, I’m a bamboo addict!"
+  },
+  {
+    "id": 113,
+    "animal": "Fox",
+    "says": "Yip, I’m cunning and quick!"
+  },
+  {
+    "id": 114,
+    "animal": "Horse",
+    "says": "Neigh, I’m born to run!"
+  },
+  {
+    "id": 115,
+    "animal": "Seal",
+    "says": "Bark, I juggle with my nose!"
+  },
+  {
+    "id": 116,
+    "animal": "Rhinoceros",
+    "says": "Snort, I’m a living tank!"
+  },
+  {
+    "id": 117,
+    "animal": "Monkey",
+    "says": "Ooh, I’m a prankster king!"
+  },
+  {
+    "id": 118,
+    "animal": "Sloth",
+    "says": "Yawn, I’m in no rush!"
+  },
+  {
+    "id": 119,
+    "animal": "Tiger",
+    "says": "Roar, I’m a jungle phantom!"
+  },
+  {
+    "id": 120,
+    "animal": "Llama",
+    "says": "Spit, I’m a sassy grazer!"
+  },
+  {
+    "id": 121,
+    "animal": "Vulture",
+    "says": "Hiss, I’m nature’s cleanup!"
+  },
+  {
+    "id": 122,
+    "animal": "Coyote",
+    "says": "Yowl, I’m a moon singer!"
+  },
+  {
+    "id": 123,
+    "animal": "Bison",
+    "says": "Grunt, I’m a prairie titan!"
+  },
+  {
+    "id": 124,
+    "animal": "Deer",
+    "says": "Snort, I bound through woods!"
+  },
+  {
+    "id": 125,
+    "animal": "Otter",
+    "says": "Squeak, I’m a playful swimmer!"
+  },
+  {
+    "id": 126,
+    "animal": "Falcon",
+    "says": "Screech, I dive like lightning!"
+  },
+  {
+    "id": 127,
+    "animal": "Goat",
+    "says": "Baa, I climb steep cliffs!"
+  },
+  {
+    "id": 128,
+    "animal": "Peacock",
+    "says": "Strut, my tail’s a fan!"
+  },
+  {
+    "id": 129,
+    "animal": "Rabbit",
+    "says": "Thump, I’m a burrow master!"
+  },
+  {
+    "id": 130,
+    "animal": "Badger",
+    "says": "Grumble, I’m a fierce digger!"
+  },
+  {
+    "id": 131,
+    "animal": "Whale",
+    "says": "Sing, my voice echoes deep!"
+  },
+  {
+    "id": 132,
+    "animal": "Antelope",
+    "says": "Bleat, I’m a speedy sprinter!"
+  },
+  {
+    "id": 133,
+    "animal": "Meerkat",
+    "says": "Chirp, I guard my clan!"
+  },
+  {
+    "id": 134,
+    "animal": "Iguana",
+    "says": "Hiss, I bask in the sun!"
+  },
+  {
+    "id": 135,
+    "animal": "Walrus",
+    "says": "Blubber, I’m a sea lounger!"
+  },
+  {
+    "id": 136,
+    "animal": "Hyena",
+    "says": "Cackle, I’m a clan comedian!"
+  },
+  {
+    "id": 137,
+    "animal": "Camel",
+    "says": "Grunt, I’m a desert trekker!"
+  },
+  {
+    "id": 138,
+    "animal": "Skunk",
+    "says": "Hiss, I’ve got a stinky shield!"
+  },
+  {
+    "id": 139,
+    "animal": "Porcupine",
+    "says": "Grumble, I’m a spiky loner!"
+  },
+  {
+    "id": 140,
+    "animal": "Raven",
+    "says": "Caw, I’m a riddle solver!"
+  },
+  {
+    "id": 141,
+    "animal": "Moose",
+    "says": "Bellow, I’m a forest giant!"
+  },
+  {
+    "id": 142,
+    "animal": "Orangutan",
+    "says": "Hoot, I’m a tree philosopher!"
+  },
+  {
+    "id": 143,
+    "animal": "Platypus",
+    "says": "Gurgle, I’m a quirky swimmer!"
+  },
+  {
+    "id": 144,
+    "animal": "Hedgehog",
+    "says": "Snuffle, I’m a night roller!"
+  },
+  {
+    "id": 145,
+    "animal": "Jaguar",
+    "says": "Growl, I’m a stealth stalker!"
+  },
+  {
+    "id": 146,
+    "animal": "Albatross",
+    "says": "Squawk, I’m an ocean glider!"
+  },
+  {
+    "id": 147,
+    "animal": "Chameleon",
+    "says": "Hiss, I’m a color wizard!"
+  },
+  {
+    "id": 148,
+    "animal": "Warthog",
+    "says": "Grunt, I’m a mud wrestler!"
+  },
+  {
+    "id": 149,
+    "animal": "Ostrich",
+    "says": "Honk, I’m a speedy bird!"
+  },
+  {
+    "id": 150,
+    "animal": "Beaver",
+    "says": "Chomp, I’m a dam architect!"
+  },
+  {
+    "id": 151,
+    "animal": "Lynx",
+    "says": "Purr, I’m a snow hunter!"
+  },
+  {
+    "id": 152,
+    "animal": "Flamingo",
+    "says": "Honk, I’m a pink balancer!"
+  },
+  {
+    "id": 153,
+    "animal": "Mole",
+    "says": "Squeak, I’m a tunnel maker!"
+  },
+  {
+    "id": 154,
+    "animal": "Armadillo",
+    "says": "Snuffle, I’m a rolling tank!"
+  },
+  {
+    "id": 155,
+    "animal": "Gecko",
+    "says": "Chirp, I’m a wall crawler!"
+  },
+  {
+    "id": 156,
+    "animal": "Puma",
+    "says": "Hiss, I’m a mountain ghost!"
+  },
+  {
+    "id": 157,
+    "animal": "Bison",
+    "says": "Snort, I’m a grassland king!"
+  },
+  {
+    "id": 158,
+    "animal": "Condor",
+    "says": "Screech, I’m a sky emperor!"
+  },
+  {
+    "id": 159,
+    "animal": "Dingo",
+    "says": "Howl, I’m a desert roamer!"
+  },
+  {
+    "id": 160,
+    "animal": "Gibbon",
+    "says": "Whoop, I’m a dawn singer!"
+  },
+  {
+    "id": 161,
+    "animal": "Tapir",
+    "says": "Snort, I’m a forest forager!"
+  },
+  {
+    "id": 162,
+    "animal": "Wolverine",
+    "says": "Growl, I’m a fierce scrapper!"
+  },
+  {
+    "id": 163,
+    "animal": "Toucan",
+    "says": "Squawk, I’m a fruit nabber!"
+  },
+  {
+    "id": 164,
+    "animal": "Aardvark",
+    "says": "Snuffle, I’m an ant vacuum!"
+  },
+  {
+    "id": 165,
+    "animal": "Emu",
+    "says": "Grunt, I’m an outback racer!"
+  },
+  {
+    "id": 166,
+    "animal": "Manatee",
+    "says": "Sigh, I’m a sea cuddler!"
+  },
+  {
+    "id": 167,
+    "animal": "Serval",
+    "says": "Hiss, I’m a grass leaper!"
+  },
+  {
+    "id": 168,
+    "animal": "Kinkajou",
+    "says": "Squeak, I’m a tree hugger!"
+  },
+  {
+    "id": 169,
+    "animal": "Narwhal",
+    "says": "Click, I’m a sea unicorn!"
+  },
+  {
+    "id": 170,
+    "animal": "Okapi",
+    "says": "Bleat, I’m a shy grazer!"
+  },
+  {
+    "id": 171,
+    "animal": "Quokka",
+    "says": "Chirp, I’m a selfie star!"
+  },
+  {
+    "id": 172,
+    "animal": "Tarsier",
+    "says": "Squeak, I’m a bug grabber!"
+  },
+  {
+    "id": 173,
+    "animal": "Uakari",
+    "says": "Grunt, I’m a red-faced rogue!"
+  },
+  {
+    "id": 174,
+    "animal": "Vicuna",
+    "says": "Bleat, I’m a woolly wonder!"
+  },
+  {
+    "id": 175,
+    "animal": "Wallaby",
+    "says": "Thump, I’m a mini hopper!"
+  },
+  {
+    "id": 176,
+    "animal": "Xenopus",
+    "says": "Croak, I’m a pond dweller!"
+  },
+  {
+    "id": 177,
+    "animal": "Yak",
+    "says": "Grunt, I’m a mountain tank!"
+  },
+  {
+    "id": 178,
+    "animal": "Zorilla",
+    "says": "Hiss, I’m a scent bomber!"
+  },
+  {
+    "id": 179,
+    "animal": "Lion",
+    "says": "Roar, I’m the pride’s protector!"
+  },
+  {
+    "id": 180,
+    "animal": "Parrot",
+    "says": "Squawk, I’m a word stealer!"
+  },
+  {
+    "id": 181,
+    "animal": "Elephant",
+    "says": "Trumpet, I’m a gentle giant!"
+  },
+  {
+    "id": 182,
+    "animal": "Dolphin",
+    "says": "Click, I’m a wave rider!"
+  },
+  {
+    "id": 183,
+    "animal": "Penguin",
+    "says": "Waddle, I’m a tuxedo pro!"
+  },
+  {
+    "id": 184,
+    "animal": "Cheetah",
+    "says": "Purr, I’m a sprint star!"
+  },
+  {
+    "id": 185,
+    "animal": "Owl",
+    "says": "Hoot, I’m a night watcher!"
+  },
+  {
+    "id": 186,
+    "animal": "Kangaroo",
+    "says": "Boing, I’m a pouch parent!"
+  },
+  {
+    "id": 187,
+    "animal": "Snake",
+    "says": "Hiss, I’m a slinky predator!"
+  },
+  {
+    "id": 188,
+    "animal": "Gorilla",
+    "says": "Grunt, I’m a forest king!"
+  },
+  {
+    "id": 189,
+    "animal": "Frog",
+    "says": "Ribbit, I’m a rain dancer!"
+  },
+  {
+    "id": 190,
+    "animal": "Shark",
+    "says": "Chomp, I’m a sea stalker!"
+  },
+  {
+    "id": 191,
+    "animal": "Eagle",
+    "says": "Screech, I’m a sky ruler!"
+  },
+  {
+    "id": 192,
+    "animal": "Koala",
+    "says": "Munch, I’m a tree sleeper!"
+  },
+  {
+    "id": 193,
+    "animal": "Bear",
+    "says": "Growl, I’m a berry hunter!"
+  },
+  {
+    "id": 194,
+    "animal": "Zebra",
+    "says": "Bray, I’m a herd dazzler!"
+  },
+  {
+    "id": 195,
+    "animal": "Giraffe",
+    "says": "Munch, I’m a treetop diner!"
+  },
+  {
+    "id": 196,
+    "animal": "Wolf",
+    "says": "Howl, I’m a pack leader!"
+  },
+  {
+    "id": 197,
+    "animal": "Turtle",
+    "says": "Hiss, I’m a mobile home!"
+  },
+  {
+    "id": 198,
+    "animal": "Lemur",
+    "says": "Chatter, I’m a tree party!"
+  },
+  {
+    "id": 199,
+    "animal": "Crocodile",
+    "says": "Snap, I’m a swamp trap!"
+  },
+  {
+    "id": 200,
+    "animal": "Hawk",
+    "says": "Screech, I’m a sharp shooter!"
+  },
+  {
+    "id": 201,
+    "animal": "Panda",
+    "says": "Nom, I’m a bamboo muncher!"
+  },
+  {
+    "id": 202,
+    "animal": "Fox",
+    "says": "Yip, I’m a sly survivor!"
+  },
+  {
+    "id": 203,
+    "animal": "Horse",
+    "says": "Neigh, I’m a field galloper!"
+  },
+  {
+    "id": 204,
+    "animal": "Seal",
+    "says": "Bark, I’m a sea acrobat!"
+  },
+  {
+    "id": 205,
+    "animal": "Rhinoceros",
+    "says": "Snort, I’m a horned charger!"
+  },
+  {
+    "id": 206,
+    "animal": "Monkey",
+    "says": "Ooh, I’m a branch swinger!"
+  },
+  {
+    "id": 207,
+    "animal": "Sloth",
+    "says": "Yawn, I’m a slow dreamer!"
+  },
+  {
+    "id": 208,
+    "animal": "Tiger",
+    "says": "Roar, I’m a stripe shadow!"
+  },
+  {
+    "id": 209,
+    "animal": "Llama",
+    "says": "Spit, I’m a woolly warrior!"
+  },
+  {
+    "id": 210,
+    "animal": "Vulture",
+    "says": "Hiss, I’m a sky cleaner!"
+  },
+  {
+    "id": 211,
+    "animal": "Coyote",
+    "says": "Yowl, I’m a dusk prowler!"
+  },
+  {
+    "id": 212,
+    "animal": "Bison",
+    "says": "Grunt, I’m a herd titan!"
+  },
+  {
+    "id": 213,
+    "animal": "Deer",
+    "says": "Snort, I’m a forest dancer!"
+  },
+  {
+    "id": 214,
+    "animal": "Otter",
+    "says": "Squeak, I’m a river slider!"
+  },
+  {
+    "id": 215,
+    "animal": "Falcon",
+    "says": "Screech, I’m a wind diver!"
+  },
+  {
+    "id": 216,
+    "animal": "Goat",
+    "says": "Baa, I’m a ridge rambler!"
+  },
+  {
+    "id": 217,
+    "animal": "Peacock",
+    "says": "Strut, I’m a feather king!"
+  },
+  {
+    "id": 218,
+    "animal": "Rabbit",
+    "says": "Thump, I’m a grass nibbler!"
+  },
+  {
+    "id": 219,
+    "animal": "Badger",
+    "says": "Grumble, I’m a burrow brawler!"
+  },
+  {
+    "id": 220,
+    "animal": "Whale",
+    "says": "Sing, I’m an ocean bard!"
+  },
+  {
+    "id": 221,
+    "animal": "Antelope",
+    "says": "Bleat, I’m a plain racer!"
+  },
+  {
+    "id": 222,
+    "animal": "Meerkat",
+    "says": "Chirp, I’m a sentry star!"
+  },
+  {
+    "id": 223,
+    "animal": "Iguana",
+    "says": "Hiss, I’m a sun worshipper!"
+  },
+  {
+    "id": 224,
+    "animal": "Walrus",
+    "says": "Blubber, I’m a tusk lounger!"
+  },
+  {
+    "id": 225,
+    "animal": "Hyena",
+    "says": "Cackle, I’m a pack joker!"
+  },
+  {
+    "id": 226,
+    "animal": "Camel",
+    "says": "Grunt, I’m a sand cruiser!"
+  },
+  {
+    "id": 227,
+    "animal": "Skunk",
+    "says": "Hiss, I’m a scent sprayer!"
+  },
+  {
+    "id": 228,
+    "animal": "Porcupine",
+    "says": "Grumble, I’m a quill fortress!"
+  },
+  {
+    "id": 229,
+    "animal": "Raven",
+    "says": "Caw, I’m a trickster bird!"
+  },
+  {
+    "id": 230,
+    "animal": "Moose",
+    "says": "Bellow, I’m a lake wader!"
+  },
+  {
+    "id": 231,
+    "animal": "Orangutan",
+    "says": "Hoot, I’m a canopy king!"
+  },
+  {
+    "id": 232,
+    "animal": "Platypus",
+    "says": "Gurgle, I’m a river oddity!"
+  },
+  {
+    "id": 233,
+    "animal": "Hedgehog",
+    "says": "Snuffle, I’m a spine ball!"
+  },
+  {
+    "id": 234,
+    "animal": "Jaguar",
+    "says": "Growl, I’m a jungle phantom!"
+  },
+  {
+    "id": 235,
+    "animal": "Albatross",
+    "says": "Squawk, I’m a sea wanderer!"
+  },
+  {
+    "id": 236,
+    "animal": "Chameleon",
+    "says": "Hiss, I’m a leaf mimic!"
+  },
+  {
+    "id": 237,
+    "animal": "Warthog",
+    "says": "Grunt, I’m a dirt digger!"
+  },
+  {
+    "id": 238,
+    "animal": "Ostrich",
+    "says": "Honk, I’m a feather sprinter!"
+  },
+  {
+    "id": 239,
+    "animal": "Beaver",
+    "says": "Chomp, I’m a river builder!"
+  },
+  {
+    "id": 240,
+    "animal": "Lynx",
+    "says": "Purr, I’m a snow stalker!"
+  },
+  {
+    "id": 241,
+    "animal": "Flamingo",
+    "says": "Honk, I’m a lake poser!"
+  },
+  {
+    "id": 242,
+    "animal": "Mole",
+    "says": "Squeak, I’m a dirt swimmer!"
+  },
+  {
+    "id": 243,
+    "animal": "Armadillo",
+    "says": "Snuffle, I’m a plated roller!"
+  },
+  {
+    "id": 244,
+    "animal": "Gecko",
+    "says": "Chirp, I’m a ceiling clinger!"
+  },
+  {
+    "id": 245,
+    "animal": "Puma",
+    "says": "Hiss, I’m a ridge hunter!"
+  },
+  {
+    "id": 246,
+    "animal": "Bison",
+    "says": "Snort, I’m a meadow king!"
+  },
+  {
+    "id": 247,
+    "animal": "Condor",
+    "says": "Screech, I’m a cliff glider!"
+  },
+  {
+    "id": 248,
+    "animal": "Dingo",
+    "says": "Howl, I’m a bush bandit!"
+  },
+  {
+    "id": 249,
+    "animal": "Gibbon",
+    "says": "Whoop, I’m a tree tenor!"
+  },
+  {
+    "id": 250,
+    "animal": "Tapir",
+    "says": "Snort, I’m a mud meanderer!"
+  },
+  {
+    "id": 251,
+    "animal": "Wolverine",
+    "says": "Growl, I’m a snow scrapper!"
+  },
+  {
+    "id": 252,
+    "animal": "Toucan",
+    "says": "Squawk, I’m a branch beauty!"
+  },
+  {
+    "id": 253,
+    "animal": "Aardvark",
+    "says": "Snuffle, I’m a termite tracker!"
+  },
+  {
+    "id": 254,
+    "animal": "Emu",
+    "says": "Grunt, I’m a plains strider!"
+  },
+  {
+    "id": 255,
+    "animal": "Manatee",
+    "says": "Sigh, I’m a calm grazer!"
+  },
+  {
+    "id": 256,
+    "animal": "Serval",
+    "says": "Hiss, I’m a savanna springer!"
+  },
+  {
+    "id": 257,
+    "animal": "Kinkajou",
+    "says": "Squeak, I’m a fruit snacker!"
+  },
+  {
+    "id": 258,
+    "animal": "Narwhal",
+    "says": "Click, I’m an arctic spear!"
+  },
+  {
+    "id": 259,
+    "animal": "Okapi",
+    "says": "Bleat, I’m a stripe shy guy!"
+  },
+  {
+    "id": 260,
+    "animal": "Quokka",
+    "says": "Chirp, I’m a happy hopper!"
+  },
+  {
+    "id": 261,
+    "animal": "Tarsier",
+    "says": "Squeak, I’m a night gawker!"
+  },
+  {
+    "id": 262,
+    "animal": "Uakari",
+    "says": "Grunt, I’m a bold bald ape!"
+  },
+  {
+    "id": 263,
+    "animal": "Vicuna",
+    "says": "Bleat, I’m a highland fleece!"
+  },
+  {
+    "id": 264,
+    "animal": "Wallaby",
+    "says": "Thump, I’m a pocket rocket!"
+  },
+  {
+    "id": 265,
+    "animal": "Xenopus",
+    "says": "Croak, I’m a lily lounger!"
+  },
+  {
+    "id": 266,
+    "animal": "Yak",
+    "says": "Grunt, I’m a frost grazer!"
+  },
+  {
+    "id": 267,
+    "animal": "Zorilla",
+    "says": "Hiss, I’m a scent striker!"
+  },
+  {
+    "id": 268,
+    "animal": "Lion",
+    "says": "Roar, I’m the savanna’s voice!"
+  },
+  {
+    "id": 269,
+    "animal": "Parrot",
+    "says": "Squawk, I’m a chatterbox!"
+  },
+  {
+    "id": 270,
+    "animal": "Elephant",
+    "says": "Trumpet, I’m a herd elder!"
+  },
+  {
+    "id": 271,
+    "animal": "Dolphin",
+    "says": "Click, I’m a sea spinner!"
+  },
+  {
+    "id": 272,
+    "animal": "Penguin",
+    "says": "Waddle, I’m an ice slider!"
+  },
+  {
+    "id": 273,
+    "animal": "Cheetah",
+    "says": "Purr, I’m a blur of speed!"
+  },
+  {
+    "id": 274,
+    "animal": "Owl",
+    "says": "Hoot, I’m a moon gazer!"
+  },
+  {
+    "id": 275,
+    "animal": "Kangaroo",
+    "says": "Boing, I’m a leap legend!"
+  },
+  {
+    "id": 276,
+    "animal": "Snake",
+    "says": "Hiss, I’m a coil master!"
+  },
+  {
+    "id": 277,
+    "animal": "Gorilla",
+    "says": "Grunt, I’m a vine swinger!"
+  },
+  {
+    "id": 278,
+    "animal": "Frog",
+    "says": "Ribbit, I’m a puddle prince!"
+  },
+  {
+    "id": 279,
+    "animal": "Shark",
+    "says": "Chomp, I’m a wave hunter!"
+  },
+  {
+    "id": 280,
+    "animal": "Eagle",
+    "says": "Screech, I’m a peak percher!"
+  },
+  {
+    "id": 281,
+    "animal": "Koala",
+    "says": "Munch, I’m a gum guzzler!"
+  },
+  {
+    "id": 282,
+    "animal": "Bear",
+    "says": "Growl, I’m a cave dweller!"
+  },
+  {
+    "id": 283,
+    "animal": "Zebra",
+    "says": "Bray, I’m a streak sprinter!"
+  },
+  {
+    "id": 284,
+    "animal": "Giraffe",
+    "says": "Munch, I’m a sky grazer!"
+  },
+  {
+    "id": 285,
+    "animal": "Wolf",
+    "says": "Howl, I’m a dusk runner!"
+  },
+  {
+    "id": 286,
+    "animal": "Turtle",
+    "says": "Hiss, I’m a shell shelter!"
+  },
+  {
+    "id": 287,
+    "animal": "Lemur",
+    "says": "Chatter, I’m a dawn caller!"
+  },
+  {
+    "id": 288,
+    "animal": "Crocodile",
+    "says": "Snap, I’m a bank lurker!"
+  },
+  {
+    "id": 289,
+    "animal": "Hawk",
+    "says": "Screech, I’m a wind rider!"
+  },
+  {
+    "id": 290,
+    "animal": "Panda",
+    "says": "Nom, I’m a shoot shredder!"
+  },
+  {
+    "id": 291,
+    "animal": "Fox",
+    "says": "Yip, I’m a brush bandit!"
+  },
+  {
+    "id": 292,
+    "animal": "Horse",
+    "says": "Neigh, I’m a meadow mover!"
+  },
+  {
+    "id": 293,
+    "animal": "Seal",
+    "says": "Bark, I’m a rock flopper!"
+  },
+  {
+    "id": 294,
+    "animal": "Rhinoceros",
+    "says": "Snort, I’m a dust charger!"
+  },
+  {
+    "id": 295,
+    "animal": "Monkey",
+    "says": "Ooh, I’m a tree tickler!"
+  },
+  {
+    "id": 296,
+    "animal": "Sloth",
+    "says": "Yawn, I’m a branch napper!"
+  },
+  {
+    "id": 297,
+    "animal": "Tiger",
+    "says": "Roar, I’m a shadow striker!"
+  },
+  {
+    "id": 298,
+    "animal": "Llama",
+    "says": "Spit, I’m a trail trekker!"
+  },
+  {
+    "id": 299,
+    "animal": "Vulture",
+    "says": "Hiss, I’m a carrion king!"
+  },
+  {
+    "id": 300,
+    "animal": "Coyote",
+    "says": "Yowl, I’m a star howler!"
+  },
+  {
+    "id": 301,
+    "animal": "Bison",
+    "says": "Grunt, I’m a grass trampler!"
+  },
+  {
+    "id": 302,
+    "animal": "Deer",
+    "says": "Snort, I’m a glade glider!"
+  },
+  {
+    "id": 303,
+    "animal": "Otter",
+    "says": "Squeak, I’m a stream surfer!"
+  },
+  {
+    "id": 304,
+    "animal": "Falcon",
+    "says": "Screech, I’m a sky spear!"
+  },
+  {
+    "id": 305,
+    "animal": "Goat",
+    "says": "Baa, I’m a ridge rambler!"
+  },
+  {
+    "id": 306,
+    "animal": "Peacock",
+    "says": "Strut, I’m a plume prince!"
+  },
+  {
+    "id": 307,
+    "animal": "Rabbit",
+    "says": "Thump, I’m a warren worker!"
+  },
+  {
+    "id": 308,
+    "animal": "Badger",
+    "says": "Grumble, I’m a soil shifter!"
+  },
+  {
+    "id": 309,
+    "animal": "Whale",
+    "says": "Sing, I’m a deep diver!"
+  },
+  {
+    "id": 310,
+    "animal": "Antelope",
+    "says": "Bleat, I’m a savanna speeder!"
+  },
+  {
+    "id": 311,
+    "animal": "Meerkat",
+    "says": "Chirp, I’m a burrow guard!"
+  },
+  {
+    "id": 312,
+    "animal": "Iguana",
+    "says": "Hiss, I’m a stone soaker!"
+  },
+  {
+    "id": 313,
+    "animal": "Walrus",
+    "says": "Blubber, I’m a shore snoozer!"
+  },
+  {
+    "id": 314,
+    "animal": "Hyena",
+    "says": "Cackle, I’m a scrub snicker!"
+  },
+  {
+    "id": 315,
+    "animal": "Camel",
+    "says": "Grunt, I’m a dune drifter!"
+  },
+  {
+    "id": 316,
+    "animal": "Skunk",
+    "says": "Hiss, I’m a whiff warrior!"
+  },
+  {
+    "id": 317,
+    "animal": "Porcupine",
+    "says": "Grumble, I’m a spike shield!"
+  },
+  {
+    "id": 318,
+    "animal": "Raven",
+    "says": "Caw, I’m a lore keeper!"
+  },
+  {
+    "id": 319,
+    "animal": "Moose",
+    "says": "Bellow, I’m a marsh monarch!"
+  },
+  {
+    "id": 320,
+    "animal": "Orangutan",
+    "says": "Hoot, I’m a branch bard!"
+  },
+  {
+    "id": 321,
+    "animal": "Platypus",
+    "says": "Gurgle, I’m a stream stranger!"
+  },
+  {
+    "id": 322,
+    "animal": "Hedgehog",
+    "says": "Snuffle, I’m a sod snuggler!"
+  },
+  {
+    "id": 323,
+    "animal": "Jaguar",
+    "says": "Growl, I’m a frond fiend!"
+  },
+  {
+    "id": 324,
+    "animal": "Albatross",
+    "says": "Squawk, I’m a swell surfer!"
+  },
+  {
+    "id": 325,
+    "animal": "Chameleon",
+    "says": "Hiss, I’m a twig trickster!"
+  },
+  {
+    "id": 326,
+    "animal": "Warthog",
+    "says": "Grunt, I’m a sod snorter!"
+  },
+  {
+    "id": 327,
+    "animal": "Ostrich",
+    "says": "Honk, I’m a dust dasher!"
+  },
+  {
+    "id": 328,
+    "animal": "Beaver",
+    "says": "Chomp, I’m a stream shaper!"
+  },
+  {
+    "id": 329,
+    "animal": "Lynx",
+    "says": "Purr, I’m a frost flanker!"
+  },
+  {
+    "id": 330,
+    "animal": "Flamingo",
+    "says": "Honk, I’m a lagoon luminary!"
+  },
+  {
+    "id": 331,
+    "animal": "Mole",
+    "says": "Squeak, I’m a turf tunneler!"
+  },
+  {
+    "id": 332,
+    "animal": "Armadillo",
+    "says": "Snuffle, I’m a brush burrower!"
+  },
+  {
+    "id": 333,
+    "animal": "Gecko",
+    "says": "Chirp, I’m a stone skitter!"
+  },
+  {
+    "id": 334,
+    "animal": "Puma",
+    "says": "Hiss, I’m a crag crawler!"
+  },
+  {
+    "id": 335,
+    "animal": "Bison",
+    "says": "Snort, I’m a meadow mover!"
+  },
+  {
+    "id": 336,
+    "animal": "Condor",
+    "says": "Screech, I’m a thermal throner!"
+  },
+  {
+    "id": 337,
+    "animal": "Dingo",
+    "says": "Howl, I’m a gulch growler!"
+  },
+  {
+    "id": 338,
+    "animal": "Gibbon",
+    "says": "Whoop, I’m a canopy crooner!"
+  },
+  {
+    "id": 339,
+    "animal": "Tapir",
+    "says": "Snort, I’m a bog browser!"
+  },
+  {
+    "id": 340,
+    "animal": "Wolverine",
+    "says": "Growl, I’m a frost fighter!"
+  },
+  {
+    "id": 341,
+    "animal": "Toucan",
+    "says": "Squawk, I’m a perch painter!"
+  },
+  {
+    "id": 342,
+    "animal": "Aardvark",
+    "says": "Snuffle, I’m a mound muncher!"
+  },
+  {
+    "id": 343,
+    "animal": "Emu",
+    "says": "Grunt, I’m a scrub sprinter!"
+  },
+  {
+    "id": 344,
+    "animal": "Manatee",
+    "says": "Sigh, I’m a bay bather!"
+  },
+  {
+    "id": 345,
+    "animal": "Serval",
+    "says": "Hiss, I’m a grass grabber!"
+  },
+  {
+    "id": 346,
+    "animal": "Kinkajou",
+    "says": "Squeak, I’m a bough bandit!"
+  },
+  {
+    "id": 347,
+    "animal": "Narwhal",
+    "says": "Click, I’m a berg buzzer!"
+  },
+  {
+    "id": 348,
+    "animal": "Okapi",
+    "says": "Bleat, I’m a fern forager!"
+  },
+  {
+    "id": 349,
+    "animal": "Quokka",
+    "says": "Chirp, I’m a heath hugger!"
+  },
+  {
+    "id": 350,
+    "animal": "Tarsier",
+    "says": "Squeak, I’m a twig tracker!"
+  },
+  {
+    "id": 351,
+    "animal": "Uakari",
+    "says": "Grunt, I’m a canopy clown!"
+  },
+  {
+    "id": 352,
+    "animal": "Vicuna",
+    "says": "Bleat, I’m a ridge rover!"
+  },
+  {
+    "id": 353,
+    "animal": "Wallaby",
+    "says": "Thump, I’m a glade galloper!"
+  },
+  {
+    "id": 354,
+    "animal": "Xenopus",
+    "says": "Croak, I’m a swamp singer!"
+  },
+  {
+    "id": 355,
+    "animal": "Yak",
+    "says": "Grunt, I’m a peak plodder!"
+  },
+  {
+    "id": 356,
+    "animal": "Zorilla",
+    "says": "Hiss, I’m a whiff whirler!"
+  },
+  {
+    "id": 357,
+    "animal": "Lion",
+    "says": "Roar, I’m a veldt victor!"
+  },
+  {
+    "id": 358,
+    "animal": "Parrot",
+    "says": "Squawk, I’m a perch prattler!"
+  },
+  {
+    "id": 359,
+    "animal": "Elephant",
+    "says": "Trumpet, I’m a bush behemoth!"
+  },
+  {
+    "id": 360,
+    "animal": "Dolphin",
+    "says": "Click, I’m a foam frolicker!"
+  },
+  {
+    "id": 361,
+    "animal": "Penguin",
+    "says": "Waddle, I’m a berg bouncer!"
+  },
+  {
+    "id": 362,
+    "animal": "Cheetah",
+    "says": "Purr, I’m a savanna streak!"
+  },
+  {
+    "id": 363,
+    "animal": "Owl",
+    "says": "Hoot, I’m a gloom glider!"
+  },
+  {
+    "id": 364,
+    "animal": "Kangaroo",
+    "says": "Boing, I’m a paddock pouncer!"
+  },
+  {
+    "id": 365,
+    "animal": "Snake",
+    "says": "Hiss, I’m a grass glider!"
+  },
+  {
+    "id": 366,
+    "animal": "Gorilla",
+    "says": "Grunt, I’m a jungle juggernaut!"
+  },
+  {
+    "id": 367,
+    "animal": "Frog",
+    "says": "Ribbit, I’m a lily leaper!"
+  },
+  {
+    "id": 368,
+    "animal": "Shark",
+    "says": "Chomp, I’m a reef raider!"
+  },
+  {
+    "id": 369,
+    "animal": "Eagle",
+    "says": "Screech, I’m a crag conqueror!"
+  },
+  {
+    "id": 370,
+    "animal": "Koala",
+    "says": "Munch, I’m a branch binger!"
+  },
+  {
+    "id": 371,
+    "animal": "Bear",
+    "says": "Growl, I’m a glade grumbler!"
+  },
+  {
+    "id": 372,
+    "animal": "Zebra",
+    "says": "Bray, I’m a plain painter!"
+  },
+  {
+    "id": 373,
+    "animal": "Giraffe",
+    "says": "Munch, I’m a treetop taster!"
+  },
+  {
+    "id": 374,
+    "animal": "Wolf",
+    "says": "Howl, I’m a ridge roamer!"
+  },
+  {
+    "id": 375,
+    "animal": "Turtle",
+    "says": "Hiss, I’m a creek cruiser!"
+  },
+  {
+    "id": 376,
+    "animal": "Lemur",
+    "says": "Chatter, I’m a frond flirter!"
+  },
+  {
+    "id": 377,
+    "animal": "Crocodile",
+    "says": "Snap, I’m a lagoon lord!"
+  },
+  {
+    "id": 378,
+    "animal": "Hawk",
+    "says": "Screech, I’m a thermal tracker!"
+  },
+  {
+    "id": 379,
+    "animal": "Panda",
+    "says": "Nom, I’m a grove gobbler!"
+  },
+  {
+    "id": 380,
+    "animal": "Fox",
+    "says": "Yip, I’m a heath hustler!"
+  },
+  {
+    "id": 381,
+    "animal": "Horse",
+    "says": "Neigh, I’m a field flasher!"
+  },
+  {
+    "id": 382,
+    "animal": "Seal",
+    "says": "Bark, I’m a shoal showoff!"
+  },
+  {
+    "id": 383,
+    "animal": "Rhinoceros",
+    "says": "Snort, I’m a scrub stomper!"
+  },
+  {
+    "id": 384,
+    "animal": "Monkey",
+    "says": "Ooh, I’m a vine vaulter!"
+  },
+  {
+    "id": 385,
+    "animal": "Sloth",
+    "says": "Yawn, I’m a canopy camper!"
+  },
+  {
+    "id": 386,
+    "animal": "Tiger",
+    "says": "Roar, I’m a reed ripper!"
+  },
+  {
+    "id": 387,
+    "animal": "Llama",
+    "says": "Spit, I’m a slope spunk!"
+  },
+  {
+    "id": 388,
+    "animal": "Vulture",
+    "says": "Hiss, I’m a gust gobbler!"
+  },
+  {
+    "id": 389,
+    "animal": "Coyote",
+    "says": "Yowl, I’m a dune dancer!"
+  },
+  {
+    "id": 390,
+    "animal": "Bison",
+    "says": "Grunt, I’m a plain plow!"
+  },
+  {
+    "id": 391,
+    "animal": "Deer",
+    "says": "Snort, I’m a grove glider!"
+  },
+  {
+    "id": 392,
+    "animal": "Otter",
+    "says": "Squeak, I’m a rapid racer!"
+  },
+  {
+    "id": 393,
+    "animal": "Falcon",
+    "says": "Screech, I’m a gale gouger!"
+  },
+  {
+    "id": 394,
+    "animal": "Goat",
+    "says": "Baa, I’m a peak prancer!"
+  },
+  {
+    "id": 395,
+    "animal": "Peacock",
+    "says": "Strut, I’m a glade glitter!"
+  },
+  {
+    "id": 396,
+    "animal": "Rabbit",
+    "says": "Thump, I’m a meadow muncher!"
+  },
+  {
+    "id": 397,
+    "animal": "Badger",
+    "says": "Grumble, I’m a sod scrapper!"
+  },
+  {
+    "id": 398,
+    "animal": "Whale",
+    "says": "Sing, I’m a tide troubadour!"
+  },
+  {
+    "id": 399,
+    "animal": "Antelope",
+    "says": "Bleat, I’m a veldt vagrant!"
+  },
+  {
+    "id": 400,
+    "animal": "Meerkat",
+    "says": "Chirp, I’m a dune defender!"
+  },
+  {
+    "id": 401,
+    "animal": "Iguana",
+    "says": "Hiss, I’m a boulder basker!"
+  },
+  {
+    "id": 402,
+    "animal": "Walrus",
+    "says": "Blubber, I’m a berg blubber!"
+  },
+  {
+    "id": 403,
+    "animal": "Hyena",
+    "says": "Cackle, I’m a plain prankster!"
+  },
+  {
+    "id": 404,
+    "animal": "Camel",
+    "says": "Grunt, I’m a dune dawdler!"
+  },
+  {
+    "id": 405,
+    "animal": "Skunk",
+    "says": "Hiss, I’m a whiff wizard!"
+  },
+  {
+    "id": 406,
+    "animal": "Porcupine",
+    "says": "Grumble, I’m a scrub spike!"
+  },
+  {
+    "id": 407,
+    "animal": "Raven",
+    "says": "Caw, I’m a crag croaker!"
+  },
+  {
+    "id": 408,
+    "animal": "Moose",
+    "says": "Bellow, I’m a fen forager!"
+  },
+  {
+    "id": 409,
+    "animal": "Orangutan",
+    "says": "Hoot, I’m a frond frolicker!"
+  },
+  {
+    "id": 410,
+    "animal": "Platypus",
+    "says": "Gurgle, I’m a billow bather!"
+  },
+  {
+    "id": 411,
+    "animal": "Hedgehog",
+    "says": "Snuffle, I’m a sod snuggler!"
+  },
+  {
+    "id": 412,
+    "animal": "Jaguar",
+    "says": "Growl, I’m a thicket thug!"
+  },
+  {
+    "id": 413,
+    "animal": "Albatross",
+    "says": "Squawk, I’m a billow bouncer!"
+  },
+  {
+    "id": 414,
+    "animal": "Chameleon",
+    "says": "Hiss, I’m a leaf larcener!"
+  },
+  {
+    "id": 415,
+    "animal": "Warthog",
+    "says": "Grunt, I’m a mire muncher!"
+  },
+  {
+    "id": 416,
+    "animal": "Ostrich",
+    "says": "Honk, I’m a scrub speeder!"
+  },
+  {
+    "id": 417,
+    "animal": "Beaver",
+    "says": "Chomp, I’m a creek crafter!"
+  },
+  {
+    "id": 418,
+    "animal": "Lynx",
+    "says": "Purr, I’m a ridge rover!"
+  },
+  {
+    "id": 419,
+    "animal": "Flamingo",
+    "says": "Honk, I’m a pool poser!"
+  },
+  {
+    "id": 420,
+    "animal": "Mole",
+    "says": "Squeak, I’m a turf ticker!"
+  },
+  {
+    "id": 421,
+    "animal": "Armadillo",
+    "says": "Snuffle, I’m a heath huddler!"
+  },
+  {
+    "id": 422,
+    "animal": "Gecko",
+    "says": "Chirp, I’m a crevice creeper!"
+  },
+  {
+    "id": 423,
+    "animal": "Puma",
+    "says": "Hiss, I’m a peak prowler!"
+  },
+  {
+    "id": 424,
+    "animal": "Bison",
+    "says": "Snort, I’m a meadow mover!"
+  },
+  {
+    "id": 425,
+    "animal": "Condor",
+    "says": "Screech, I’m a thermal throner!"
+  },
+  {
+    "id": 426,
+    "animal": "Dingo",
+    "says": "Howl, I’m a gulch growler!"
+  },
+  {
+    "id": 427,
+    "animal": "Gibbon",
+    "says": "Whoop, I’m a canopy crooner!"
+  },
+  {
+    "id": 428,
+    "animal": "Tapir",
+    "says": "Snort, I’m a bog browser!"
+  },
+  {
+    "id": 429,
+    "animal": "Wolverine",
+    "says": "Growl, I’m a frost fighter!"
+  },
+  {
+    "id": 430,
+    "animal": "Toucan",
+    "says": "Squawk, I’m a perch painter!"
+  },
+  {
+    "id": 431,
+    "animal": "Aardvark",
+    "says": "Snuffle, I’m a mound muncher!"
+  },
+  {
+    "id": 432,
+    "animal": "Emu",
+    "says": "Grunt, I’m a scrub sprinter!"
+  },
+  {
+    "id": 433,
+    "animal": "Manatee",
+    "says": "Sigh, I’m a bay bather!"
+  },
+  {
+    "id": 434,
+    "animal": "Serval",
+    "says": "Hiss, I’m a grass grabber!"
+  },
+  {
+    "id": 435,
+    "animal": "Kinkajou",
+    "says": "Squeak, I’m a bough bandit!"
+  },
+  {
+    "id": 436,
+    "animal": "Narwhal",
+    "says": "Click, I’m a berg buzzer!"
+  },
+  {
+    "id": 437,
+    "animal": "Okapi",
+    "says": "Bleat, I’m a fern forager!"
+  },
+  {
+    "id": 438,
+    "animal": "Quokka",
+    "says": "Chirp, I’m a heath hugger!"
+  },
+  {
+    "id": 439,
+    "animal": "Tarsier",
+    "says": "Squeak, I’m a twig tracker!"
+  },
+  {
+    "id": 440,
+    "animal": "Uakari",
+    "says": "Grunt, I’m a canopy clown!"
+  },
+  {
+    "id": 441,
+    "animal": "Vicuna",
+    "says": "Bleat, I’m a ridge rover!"
+  },
+  {
+    "id": 442,
+    "animal": "Wallaby",
+    "says": "Thump, I’m a glade galloper!"
+  },
+  {
+    "id": 443,
+    "animal": "Xenopus",
+    "says": "Croak, I’m a swamp singer!"
+  },
+  {
+    "id": 444,
+    "animal": "Yak",
+    "says": "Grunt, I’m a peak plodder!"
+  },
+  {
+    "id": 445,
+    "animal": "Zorilla",
+    "says": "Hiss, I’m a whiff whirler!"
+  },
+  {
+    "id": 446,
+    "animal": "Lion",
+    "says": "Roar, I’m a plain powerhouse!"
+  },
+  {
+    "id": 447,
+    "animal": "Parrot",
+    "says": "Squawk, I’m a tree talker!"
+  },
+  {
+    "id": 448,
+    "animal": "Elephant",
+    "says": "Trumpet, I’m a grove giant!"
+  },
+  {
+    "id": 449,
+    "animal": "Dolphin",
+    "says": "Click, I’m a sea surfer!"
+  },
+  {
+    "id": 450,
+    "animal": "Penguin",
+    "says": "Waddle, I’m a floe flopper!"
+  },
+  {
+    "id": 451,
+    "animal": "Cheetah",
+    "says": "Purr, I’m a veldt vapor!"
+  },
+  {
+    "id": 452,
+    "animal": "Owl",
+    "says": "Hoot, I’m a night navigator!"
+  },
+  {
+    "id": 453,
+    "animal": "Kangaroo",
+    "says": "Boing, I’m a scrub springer!"
+  },
+  {
+    "id": 454,
+    "animal": "Snake",
+    "says": "Hiss, I’m a reed rambler!"
+  },
+  {
+    "id": 455,
+    "animal": "Gorilla",
+    "says": "Grunt, I’m a jungle juggernaut!"
+  },
+  {
+    "id": 456,
+    "animal": "Frog",
+    "says": "Ribbit, I’m a swamp skipper!"
+  },
+  {
+    "id": 457,
+    "animal": "Shark",
+    "says": "Chomp, I’m a deep diver!"
+  },
+  {
+    "id": 458,
+    "animal": "Eagle",
+    "says": "Screech, I’m a sky sovereign!"
+  },
+  {
+    "id": 459,
+    "animal": "Koala",
+    "says": "Munch, I’m a gum gobbler!"
+  },
+  {
+    "id": 460,
+    "animal": "Bear",
+    "says": "Growl, I’m a ridge roamer!"
+  },
+  {
+    "id": 461,
+    "animal": "Zebra",
+    "says": "Bray, I’m a stripe stunner!"
+  },
+  {
+    "id": 462,
+    "animal": "Giraffe",
+    "says": "Munch, I’m a canopy king!"
+  },
+  {
+    "id": 463,
+    "animal": "Wolf",
+    "says": "Howl, I’m a pack powerhouse!"
+  },
+  {
+    "id": 464,
+    "animal": "Turtle",
+    "says": "Hiss, I’m a stream stroller!"
+  },
+  {
+    "id": 465,
+    "animal": "Lemur",
+    "says": "Chatter, I’m a bough blabber!"
+  },
+  {
+    "id": 466,
+    "animal": "Crocodile",
+    "says": "Snap, I’m a mire monarch!"
+  },
+  {
+    "id": 467,
+    "animal": "Hawk",
+    "says": "Screech, I’m a breeze blaster!"
+  },
+  {
+    "id": 468,
+    "animal": "Panda",
+    "says": "Nom, I’m a bamboo basher!"
+  },
+  {
+    "id": 469,
+    "animal": "Fox",
+    "says": "Yip, I’m a glade glider!"
+  },
+  {
+    "id": 470,
+    "animal": "Horse",
+    "says": "Neigh, I’m a plain prancer!"
+  },
+  {
+    "id": 471,
+    "animal": "Seal",
+    "says": "Bark, I’m a shoal spinner!"
+  },
+  {
+    "id": 472,
+    "animal": "Rhinoceros",
+    "says": "Snort, I’m a bush buster!"
+  },
+  {
+    "id": 473,
+    "animal": "Monkey",
+    "says": "Ooh, I‘Yes, I’m a vine vagrant!"
+  },
+  {
+    "id": 474,
+    "animal": "Sloth",
+    "says": "Yawn, I’m a twig ticker!"
+  },
+  {
+    "id": 475,
+    "animal": "Tiger",
+    "says": "Roar, I’m a fern fiend!"
+  },
+  {
+    "id": 476,
+    "animal": "Llama",
+    "says": "Spit, I’m a trail tamer!"
+  },
+  {
+    "id": 477,
+    "animal": "Vulture",
+    "says": "Hiss, I’m a thermal thug!"
+  },
+  {
+    "id": 478,
+    "animal": "Coyote",
+    "says": "Yowl, I’m a dune dreamer!"
+  },
+  {
+    "id": 479,
+    "animal": "Bison",
+    "says": "Grunt, I’m a herd hammer!"
+  },
+  {
+    "id": 480,
+    "animal": "Deer",
+    "says": "Snort, I’m a dell dancer!"
+  },
+  {
+    "id": 481,
+    "animal": "Otter",
+    "says": "Squeak, I’m a brook bouncer!"
+  },
+  {
+    "id": 482,
+    "animal": "Falcon",
+    "says": "Screech, I’m a gust gouger!"
+  },
+  {
+    "id": 483,
+    "animal": "Goat",
+    "says": "Baa, I’m a crag cruiser!"
+  },
+  {
+    "id": 484,
+    "animal": "Peacock",
+    "says": "Strut, I’m a glade glower!"
+  },
+  {
+    "id": 485,
+    "animal": "Rabbit",
+    "says": "Thump, I’m a sod skipper!"
+  },
+  {
+    "id": 486,
+    "animal": "Badger",
+    "says": "Grumble, I’m a den dasher!"
+  },
+  {
+    "id": 487,
+    "animal": "Whale",
+    "says": "Sing, I’m a swell singer!"
+  },
+  {
+    "id": 488,
+    "animal": "Antelope",
+    "says": "Bleat, I’m a plain pacer!"
+  },
+  {
+    "id": 489,
+    "animal": "Meerkat",
+    "says": "Chirp, I’m a mound monarch!"
+  },
+  {
+    "id": 490,
+    "animal": "Iguana",
+    "says": "Hiss, I’m a rock roaster!"
+  },
+  {
+    "id": 491,
+    "animal": "Walrus",
+    "says": "Blubber, I’m a floe flirter!"
+  },
+  {
+    "id": 492,
+    "animal": "Hyena",
+    "says": "Cackle, I’m a scrub snigger!"
+  },
+  {
+    "id": 493,
+    "animal": "Camel",
+    "says": "Grunt, I’m a sand saunterer!"
+  },
+  {
+    "id": 494,
+    "animal": "Skunk",
+    "says": "Hiss, I’m a whiff wanderer!"
+  },
+  {
+    "id": 495,
+    "animal": "Porcupine",
+    "says": "Grumble, I’m a thorn ticker!"
+  },
+  {
+    "id": 496,
+    "animal": "Raven",
+    "says": "Caw, I’m a ridge riddler!"
+  },
+  {
+    "id": 497,
+    "animal": "Moose",
+    "says": "Bellow, I’m a bog boss!"
+  },
+  {
+    "id": 498,
+    "animal": "Orangutan",
+    "says": "Hoot, I’m a canopy crooner!"
+  },
+  {
+    "id": 499,
+    "animal": "Platypus",
+    "says": "Gurgle, I’m a creek crawler!"
+  },
+  {
+    "id": 500,
+    "animal": "Hedgehog",
+    "says": "Snuffle, I’m a leaf lurker!"
+  },
+  {
+    "id": 501,
+    "animal": "Jaguar",
+    "says": "Growl, I’m a thicket titan!"
+  },
+  {
+    "id": 502,
+    "animal": "Albatross",
+    "says": "Squawk, I’m a gale gobbler!"
+  },
+  {
+    "id": 503,
+    "animal": "Chameleon",
+    "says": "Hiss, I’m a sprig shifter!"
+  },
+  {
+    "id": 504,
+    "animal": "Warthog",
+    "says": "Grunt, I’m a sod snorter!"
+  },
+  {
+    "id": 505,
+    "animal": "Ostrich",
+    "says": "Honk, I’m a plain pelter!"
+  },
+  {
+    "id": 506,
+    "animal": "Beaver",
+    "says": "Chomp, I’m a stream shaper!"
+  },
+  {
+    "id": 507,
+    "animal": "Lynx",
+    "says": "Purr, I’m a frost flanker!"
+  },
+  {
+    "id": 508,
+    "animal": "Flamingo",
+    "says": "Honk, I’m a lagoon luminary!"
+  },
+  {
+    "id": 509,
+    "animal": "Mole",
+    "says": "Squeak, I’m a turf tunneler!"
+  },
+  {
+    "id": 510,
+    "animal": "Armadillo",
+    "says": "Snuffle, I’m a scrub scroller!"
+  },
+  {
+    "id": 511,
+    "animal": "Gecko",
+    "says": "Chirp, I’m a crevice creeper!"
+  },
+  {
+    "id": 512,
+    "animal": "Puma",
+    "says": "Hiss, I’m a peak prowler!"
+  },
+  {
+    "id": 513,
+    "animal": "Bison",
+    "says": "Snort, I’m a meadow monarch!"
+  },
+  {
+    "id": 514,
+    "animal": "Condor",
+    "says": "Screech, I’m a thermal throner!"
+  },
+  {
+    "id": 515,
+    "animal": "Dingo",
+    "says": "Howl, I’m a gulch growler!"
+  },
+  {
+    "id": 516,
+    "animal": "Gibbon",
+    "says": "Whoop, I’m a bough belter!"
+  },
+  {
+    "id": 517,
+    "animal": "Tapir",
+    "says": "Snort, I’m a glade grazer!"
+  },
+  {
+    "id": 518,
+    "animal": "Wolverine",
+    "says": "Growl, I’m a frost fiend!"
+  },
+  {
+    "id": 519,
+    "animal": "Toucan",
+    "says": "Squawk, I’m a perch popper!"
+  },
+  {
+    "id": 520,
+    "animal": "Aardvark",
+    "says": "Snuffle, I’m a termite tickler!"
+  },
+  {
+    "id": 521,
+    "animal": "Emu",
+    "says": "Grunt, I’m a plain pacer!"
+  },
+  {
+    "id": 522,
+    "animal": "Manatee",
+    "says": "Sigh, I’m a lagoon lounger!"
+  },
+  {
+    "id": 523,
+    "animal": "Serval",
+    "says": "Hiss, I’m a reed rocket!"
+  },
+  {
+    "id": 524,
+    "animal": "Kinkajou",
+    "says": "Squeak, I’m a frond feeder!"
+  },
+  {
+    "id": 525,
+    "animal": "Narwhal",
+    "says": "Click, I’m a floe flirter!"
+  },
+  {
+    "id": 526,
+    "animal": "Okapi",
+    "says": "Bleat, I’m a thicket treader!"
+  },
+  {
+    "id": 527,
+    "animal": "Quokka",
+    "says": "Chirp, I’m a scrub smiler!"
+  },
+  {
+    "id": 528,
+    "animal": "Tarsier",
+    "says": "Squeak, I’m a gloom grabber!"
+  },
+  {
+    "id": 529,
+    "animal": "Uakari",
+    "says": "Grunt, I’m a bough brawler!"
+  },
+  {
+    "id": 530,
+    "animal": "Vicuna",
+    "says": "Bleat, I’m a slope softie!"
+  },
+  {
+    "id": 531,
+    "animal": "Wallaby",
+    "says": "Thump, I’m a heath hopper!"
+  },
+  {
+    "id": 532,
+    "animal": "Xenopus",
+    "says": "Croak, I’m a mire minstrel!"
+  },
+  {
+    "id": 533,
+    "animal": "Yak",
+    "says": "Grunt, I’m a ridge rambler!"
+  },
+  {
+    "id": 534,
+    "animal": "Zorilla",
+    "says": "Hiss, I’m a whiff warrior!"
+  },
+  {
+    "id": 535,
+    "animal": "Lion",
+    "says": "Roar, I’m a plain powerhouse!"
+  },
+  {
+    "id": 536,
+    "animal": "Parrot",
+    "says": "Squawk, I’m a tree talker!"
+  },
+  {
+    "id": 537,
+    "animal": "Elephant",
+    "says": "Trumpet, I’m a grove giant!"
+  },
+  {
+    "id": 538,
+    "animal": "Dolphin",
+    "says": "Click, I’m a sea surfer!"
+  },
+  {
+    "id": 539,
+    "animal": "Penguin",
+    "says": "Waddle, I’m a floe flopper!"
+  },
+  {
+    "id": 540,
+    "animal": "Cheetah",
+    "says": "Purr, I’m a veldt vapor!"
+  },
+  {
+    "id": 541,
+    "animal": "Owl",
+    "says": "Hoot, I’m a night navigator!"
+  },
+  {
+    "id": 542,
+    "animal": "Kangaroo",
+    "says": "Boing, I’m a scrub springer!"
+  },
+  {
+    "id": 543,
+    "animal": "Snake",
+    "says": "Hiss, I’m a reed rambler!"
+  },
+  {
+    "id": 544,
+    "animal": "Gorilla",
+    "says": "Grunt, I’m a jungle juggernaut!"
+  },
+  {
+    "id": 545,
+    "animal": "Frog",
+    "says": "Ribbit, I’m a swamp skipper!"
+  },
+  {
+    "id": 546,
+    "animal": "Shark",
+    "says": "Chomp, I’m a deep diver!"
+  },
+  {
+    "id": 547,
+    "animal": "Eagle",
+    "says": "Screech, I’m a sky sovereign!"
+  },
+  {
+    "id": 548,
+    "animal": "Koala",
+    "says": "Munch, I’m a gum gobbler!"
+  },
+  {
+    "id": 549,
+    "animal": "Bear",
+    "says": "Growl, I’m a ridge roamer!"
+  },
+  {
+    "id": 550,
+    "animal": "Zebra",
+    "says": "Bray, I’m a stripe stunner!"
+  },
+  {
+    "id": 551,
+    "animal": "Giraffe",
+    "says": "Munch, I’m a canopy king!"
+  },
+  {
+    "id": 552,
+    "animal": "Wolf",
+    "says": "Howl, I’m a pack powerhouse!"
+  },
+  {
+    "id": 553,
+    "animal": "Turtle",
+    "says": "Hiss, I’m a stream stroller!"
+  },
+  {
+    "id": 554,
+    "animal": "Lemur",
+    "says": "Chatter, I’m a bough blabber!"
+  },
+  {
+    "id": 555,
+    "animal": "Crocodile",
+    "says": "Snap, I’m a mire monarch!"
+  },
+  {
+    "id": 556,
+    "animal": "Hawk",
+    "says": "Screech, I’m a breeze blaster!"
+  },
+  {
+    "id": 557,
+    "animal": "Panda",
+    "says": "Nom, I’m a bamboo basher!"
+  },
+  {
+    "id": 558,
+    "animal": "Fox",
+    "says": "Yip, I’m a glade glider!"
+  },
+  {
+    "id": 559,
+    "animal": "Horse",
+    "says": "Neigh, I’m a plain prancer!"
+  },
+  {
+    "id": 560,
+    "animal": "Seal",
+    "says": "Bark, I’m a shoal spinner!"
+  },
+  {
+    "id": 561,
+    "animal": "Rhinoceros",
+    "says": "Snort, I’m a bush buster!"
+  },
+  {
+    "id": 562,
+    "animal": "Monkey",
+    "says": "Ooh, I’m a vine vagrant!"
+  },
+  {
+    "id": 563,
+    "animal": "Sloth",
+    "says": "Yawn, I’m a twig ticker!"
+  },
+  {
+    "id": 564,
+    "animal": "Tiger",
+    "says": "Roar, I’m a fern fiend!"
+  },
+  {
+    "id": 565,
+    "animal": "Llama",
+    "says": "Spit, I’m a trail tamer!"
+  },
+  {
+    "id": 566,
+    "animal": "Vulture",
+    "says": "Hiss, I’m a thermal thug!"
+  },
+  {
+    "id": 567,
+    "animal": "Coyote",
+    "says": "Yowl, I’m a dune dreamer!"
+  },
+  {
+    "id": 568,
+    "animal": "Bison",
+    "says": "Grunt, I’m a herd hammer!"
+  },
+  {
+    "id": 569,
+    "animal": "Deer",
+    "says": "Snort, I’m a dell dancer!"
+  },
+  {
+    "id": 570,
+    "animal": "Otter",
+    "says": "Squeak, I’m a brook bouncer!"
+  },
+  {
+    "id": 571,
+    "animal": "Falcon",
+    "says": "Screech, I’m a gust gouger!"
+  },
+  {
+    "id": 572,
+    "animal": "Goat",
+    "says": "Baa, I’m a crag cruiser!"
+  },
+  {
+    "id": 573,
+    "animal": "Peacock",
+    "says": "Strut, I’m a glade glower!"
+  },
+  {
+    "id": 574,
+    "animal": "Rabbit",
+    "says": "Thump, I’m a sod skipper!"
+  },
+  {
+    "id": 575,
+    "animal": "Badger",
+    "says": "Grumble, I’m a den dasher!"
+  },
+  {
+    "id": 576,
+    "animal": "Whale",
+    "says": "Sing, I’m a swell singer!"
+  },
+  {
+    "id": 577,
+    "animal": "Antelope",
+    "says": "Bleat, I’m a plain pacer!"
+  },
+  {
+    "id": 578,
+    "animal": "Meerkat",
+    "says": "Chirp, I’m a mound monarch!"
+  },
+  {
+    "id": 579,
+    "animal": "Iguana",
+    "says": "Hiss, I’m a rock roaster!"
+  },
+  {
+    "id": 580,
+    "animal": "Walrus",
+    "says": "Blubber, I’m a floe flirter!"
+  },
+  {
+    "id": 581,
+    "animal": "Hyena",
+    "says": "Cackle, I’m a scrub snigger!"
+  },
+  {
+    "id": 582,
+    "animal": "Camel",
+    "says": "Grunt, I’m a sand saunterer!"
+  },
+  {
+    "id": 583,
+    "animal": "Skunk",
+    "says": "Hiss, I’m a whiff wanderer!"
+  },
+  {
+    "id": 584,
+    "animal": "Porcupine",
+    "says": "Grumble, I’m a thorn ticker!"
+  },
+  {
+    "id": 585,
+    "animal": "Raven",
+    "says": "Caw, I’m a ridge riddler!"
+  },
+  {
+    "id": 586,
+    "animal": "Moose",
+    "says": "Bellow, I’m a bog boss!"
+  },
+  {
+    "id": 587,
+    "animal": "Orangutan",
+    "says": "Hoot, I’m a canopy crooner!"
+  },
+  {
+    "id": 588,
+    "animal": "Platypus",
+    "says": "Gurgle, I’m a creek crawler!"
+  },
+  {
+    "id": 589,
+    "animal": "Hedgehog",
+    "says": "Snuffle, I’m a leaf lurker!"
+  },
+  {
+    "id": 590,
+    "animal": "Jaguar",
+    "says": "Growl, I’m a thicket titan!"
+  },
+  {
+    "id": 591,
+    "animal": "Albatross",
+    "says": "Squawk, I’m a gale gobbler!"
+  },
+  {
+    "id": 592,
+    "animal": "Chameleon",
+    "says": "Hiss, I’m a sprig shifter!"
+  },
+  {
+    "id": 593,
+    "animal": "Warthog",
+    "says": "Grunt, I’m a sod snorter!"
+  },
+  {
+    "id": 594,
+    "animal": "Ostrich",
+    "says": "Honk, I’m a plain pelter!"
+  },
+  {
+    "id": 595,
+    "animal": "Beaver",
+    "says": "Chomp, I’m a stream shaper!"
+  },
+  {
+    "id": 596,
+    "animal": "Lynx",
+    "says": "Purr, I’m a frost flanker!"
+  },
+  {
+    "id": 597,
+    "animal": "Flamingo",
+    "says": "Honk, I’m a lagoon luminary!"
+  },
+  {
+    "id": 598,
+    "animal": "Mole",
+    "says": "Squeak, I’m a turf tunneler!"
+  },
+  {
+    "id": 599,
+    "animal": "Armadillo",
+    "says": "Snuffle, I’m a scrub scroller!"
+  },
+  {
+    "id": 600,
+    "animal": "Gecko",
+    "says": "Chirp, I’m a crevice creeper!"
+  },
+  {
+    "id": 601,
+    "animal": "Puma",
+    "says": "Hiss, I’m a peak prowler!"
+  },
+  {
+    "id": 602,
+    "animal": "Bison",
+    "says": "Snort, I’m a meadow monarch!"
+  },
+  {
+    "id": 603,
+    "animal": "Condor",
+    "says": "Screech, I’m a thermal throner!"
+  },
+  {
+    "id": 604,
+    "animal": "Dingo",
+    "says": "Howl, I’m a gulch growler!"
+  },
+  {
+    "id": 605,
+    "animal": "Gibbon",
+    "says": "Whoop, I’m a bough belter!"
+  },
+  {
+    "id": 606,
+    "animal": "Tapir",
+    "says": "Snort, I’m a glade grazer!"
+  },
+  {
+    "id": 607,
+    "animal": "Wolverine",
+    "says": "Growl, I’m a frost fiend!"
+  },
+  {
+    "id": 608,
+    "animal": "Toucan",
+    "says": "Squawk, I’m a perch popper!"
+  },
+  {
+    "id": 609,
+    "animal": "Aardvark",
+    "says": "Snuffle, I’m a termite tickler!"
+  },
+  {
+    "id": 610,
+    "animal": "Emu",
+    "says": "Grunt, I’m a plain pacer!"
+  },
+  {
+    "id": 611,
+    "animal": "Manatee",
+    "says": "Sigh, I’m a lagoon lounger!"
+  },
+  {
+    "id": 612,
+    "animal": "Serval",
+    "says": "Hiss, I’m a reed rocket!"
+  },
+  {
+    "id": 613,
+    "animal": "Kinkajou",
+    "says": "Squeak, I’m a frond feeder!"
+  },
+  {
+    "id": 614,
+    "animal": "Narwhal",
+    "says": "Click, I’m a floe flirter!"
+  },
+  {
+    "id": 615,
+    "animal": "Okapi",
+    "says": "Bleat, I’m a thicket treader!"
+  },
+  {
+    "id": 616,
+    "animal": "Quokka",
+    "says": "Chirp, I’m a scrub smiler!"
+  },
+  {
+    "id": 617,
+    "animal": "Tarsier",
+    "says": "Squeak, I’m a gloom grabber!"
+  },
+  {
+    "id": 618,
+    "animal": "Uakari",
+    "says": "Grunt, I’m a bough brawler!"
+  },
+  {
+    "id": 619,
+    "animal": "Vicuna",
+    "says": "Bleat, I’m a slope softie!"
+  },
+  {
+    "id": 620,
+    "animal": "Wallaby",
+    "says": "Thump, I’m a heath hopper!"
+  },
+  {
+    "id": 621,
+    "animal": "Xenopus",
+    "says": "Croak, I’m a mire minstrel!"
+  },
+  {
+    "id": 622,
+    "animal": "Yak",
+    "says": "Grunt, I’m a ridge rambler!"
+  },
+  {
+    "id": 623,
+    "animal": "Zorilla",
+    "says": "Hiss, I’m a whiff warrior!"
+  }
+]
