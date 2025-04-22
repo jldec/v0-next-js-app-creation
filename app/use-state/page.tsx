@@ -8,7 +8,7 @@ export default function UseStatePage() {
 
   return (
     <div className="bg-white p-6 rounded-lg shadow-lg">
-      <h1 className="text-2xl font-bold mb-4">useState Example</h1>
+      <h1 className="text-2xl font-bold mb-4">useState</h1>
 
       <div className="flex flex-col items-center">
         <p className="text-4xl font-bold mb-4">{count}</p>
