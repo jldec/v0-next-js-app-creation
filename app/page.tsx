@@ -1,4 +1,5 @@
 import TimeUpdater from "./time-updater"
+import Card from "./components/card"
 
 export const dynamic = "force-dynamic" // This ensures the page is always dynamically rendered
 
@@ -9,10 +10,9 @@ export default async function Home() {
   })
 
   return (
-    <div className="bg-white p-6 rounded-lg shadow-lg">
-      <h1 className="text-2xl font-bold mb-4">RSC Time</h1>
+    <Card title="RSC Time">
       <p className="mb-2">Server: {serverTime}</p>
       <TimeUpdater />
-    </div>
+    </Card>
   )
 }

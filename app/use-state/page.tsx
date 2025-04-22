@@ -2,14 +2,13 @@
 
 import { useState } from "react"
 import Link from "next/link"
+import Card from "../components/card"
 
 export default function UseStatePage() {
   const [count, setCount] = useState(0)
 
   return (
-    <div className="bg-white p-6 rounded-lg shadow-lg">
-      <h1 className="text-2xl font-bold mb-4">useState</h1>
-
+    <Card title="useState">
       <div className="flex flex-col items-center">
         <p className="text-4xl font-bold mb-4">{count}</p>
         <button
@@ -34,6 +33,6 @@ export default function UseStatePage() {
           ← Back to home
         </Link>
       </div>
-    </div>
+    </Card>
   )
 }
