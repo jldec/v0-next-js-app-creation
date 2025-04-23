@@ -1,7 +1,6 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import Link from "next/link"
 import Card from "../components/card"
 
 interface Animal {
@@ -70,12 +69,6 @@ export default function AnimalsPage() {
               </button>
             </div>
           )}
-
-          <div className="mt-6">
-            <Link href="/" className="text-blue-500 hover:underline">
-              ← Back to home
-            </Link>
-          </div>
         </div>
       </Card>
 

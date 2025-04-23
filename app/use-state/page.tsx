@@ -1,7 +1,6 @@
 "use client"
 
 import { useState } from "react"
-import Link from "next/link"
 import Card from "../components/card"
 
 export default function UseStatePage() {
@@ -51,12 +50,6 @@ export default function UseStatePage() {
             code
           </a>
         </div>
-      </div>
-
-      <div className="mt-6">
-        <Link href="/" className="text-blue-500 hover:underline">
-          ← Back to home
-        </Link>
       </div>
     </Card>
   )
