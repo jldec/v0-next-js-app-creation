@@ -14,7 +14,7 @@
 
 5. This just worked. Turned the chat into a new v0 project deployed to vercel and pushed to a new github repo.
 
-6. NOTE: that v0 forces tailwind v3.x and next.js v14.x even if the the original package.json contains more recent dependencies.
+6. NOTE: v0 forces tailwind v3.x and next.js v14.x even if the the original package.json contains more recent dependencies.
 
 7. NOTE: Fetching the file /data/animal_sayings.json does not work in the v0 Preview environment (deployed app works.)  
 
